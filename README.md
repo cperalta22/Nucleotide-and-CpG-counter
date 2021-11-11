@@ -1,4 +1,4 @@
-BASECOUNTER
+#BASECOUNTER
 
 Simple nucleotide counter and CpG content asses for DNA sequences 
 
